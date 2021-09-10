@@ -4,16 +4,11 @@
 
 - E
   - [<img style="width: 11px;" src="https://avatars.githubusercontent.com/u/90482566?s=200&v=4"> Examination Schools](https://github.com/ExaminationSchools)
-    - AP: [@KevinZonda](https://github.com/KevinZonda)
-    - S&c: None
+    - Acting Principal: [@KevinZonda](https://github.com/KevinZonda)
+    - Subjects and courses: None
+    - Location: Shanghai, China
 - S
   - [<img style="width: 11px;" src="https://avatars.githubusercontent.com/u/90481831?s=200&v=4"> St. Linus College](https://github.com/StLinusCollege)
-    - AP: [@Cubik65536](https://github.com/Cubik65536)
-    - S&c: Baipiao
-    
-### Abbreviations
-
-| Abbr. | Raw                  |
-| ----- | -------------------- |
-| AP    | Acting Principal     |
-| S&c   | Subjects and courses |
+    - Acting Principal: [@Cubik65536](https://github.com/Cubik65536)
+    - Subjects and courses: Baipiao
+    - Location: Surrey, British Columbia, Canada
