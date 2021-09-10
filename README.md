@@ -17,5 +17,5 @@
     - Subjects and courses: Lie Flat
     - Location: Birmingham, West Midlands, United Kingdom-->
 
-| [![Main](https://avatars.githubusercontent.com/u/85953864?s=280&v=4)](https://github.com/HMUniversity) | [![Examination Schools](https://avatars.githubusercontent.com/t/5109197?s=280&v=4)](https://github.com/orgs/HMUniversity/teams/examination-schools) | [![St. Linus College](https://avatars.githubusercontent.com/t/5109196?s=280&v=4)](https://github.com/orgs/HMUniversity/teams/st-linus-college) | <--[![St. Chi College](https://avatars.githubusercontent.com/t/5109198?s=280&v=4)](https://github.com/orgs/HMUniversity/teams/st-chi-college)--> Waiting... |
+| [![Main](https://avatars.githubusercontent.com/u/85953864?s=280&v=4)](https://github.com/HMUniversity) | [![Examination Schools](https://avatars.githubusercontent.com/t/5109197?s=280&v=4)](https://github.com/orgs/HMUniversity/teams/examination-schools) | [![St. Linus College](https://avatars.githubusercontent.com/t/5109196?s=280&v=4)](https://github.com/orgs/HMUniversity/teams/st-linus-college) | [![St. Chi College](https://avatars.githubusercontent.com/t/5109198?s=280&v=4)](https://github.com/orgs/HMUniversity/teams/st-chi-college) |
 | -- | -- | -- | -- |
