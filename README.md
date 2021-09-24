@@ -10,7 +10,7 @@
 - S
   - [<img style="width: 11px;" src="https://avatars.githubusercontent.com/t/5109196?s=280&v=4"> St. Linus College](https://github.com/orgs/HMUniversity/teams/st-linus-college)
     - Acting Principal: [@Cubik65536](https://github.com/Cubik65536)
-    - Subjects and courses: Baipiao
+    - Subjects and courses: Electrical Engineering & Computer Science, Baipiao
     - Location: Surrey, British Columbia, Canada
   - [<img style="width: 11px;" src="https://avatars.githubusercontent.com/t/5109198?s=280&v=4"> St. Chi College](https://github.com/orgs/HMUniversity/teams/st-chi-college)
     - Acting Principal: [@KevinZonda](https://github.com/KevinZonda)
