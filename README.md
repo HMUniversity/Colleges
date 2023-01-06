@@ -16,6 +16,13 @@
     - Acting Principal: [@KevinZonda](https://github.com/KevinZonda)
     - Subjects and courses: Lie Flat, Sell Vegetable
     - Location: Birmingham, West Midlands, United Kingdom
+- U
+  - Logo TBD Kindergarten College
+    - Acting Principal: [@sxzz](https://github.com/sxzz)
+    - Acting Vice Principal: [@KallyDev](https://github.com/kallydev)
+    - Subjects and courses: TBD
+    - Location: TBD
+
 - Z
   - ZWB College
     - Acting Principal: [@ho-229](https://github.com/ho-229)
