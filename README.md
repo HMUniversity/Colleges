@@ -22,7 +22,6 @@
     - Acting Vice Principal: [@KallyDev](https://github.com/kallydev)
     - Subjects and courses: TBD
     - Location: TBD
-
 - Z
   - ZWB College
     - Acting Principal: [@ho-229](https://github.com/ho-229)
