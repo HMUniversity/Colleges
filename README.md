@@ -20,7 +20,7 @@
   - Logo TBD Kindergarten College
     - Acting Principal: [@sxzz](https://github.com/sxzz)
     - Acting Vice Principal: [@KallyDev](https://github.com/kallydev)
-    - Subjects and courses: TBD
+    - Subjects and courses: Make Bugs, Water PR, Delete Repo & Disappear
     - Location: Singapore
 - Z
   - ZWB College
